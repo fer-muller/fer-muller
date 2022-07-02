@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fer-muller
 - 👀 I’m interested in data science and data engineering
-- 🌱 I’m currently learning how to build and mantain Data Warehouses, Data Lakes and MLOPS using clound computing
-- 💞️ I’m looking to collaborate on ETL and API consumption
+- 🌱 I’m currently learning how to build and mantain data pipelines using clound computing
+- 💞️ I’m looking to collaborate on infrastructure and machine learning projects
 - 📫 Reach me by email: fernando.muller096@gmail.com
 
 <!---
